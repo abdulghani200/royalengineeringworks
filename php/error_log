@@ -1,0 +1,7 @@
+[05-Dec-2017 08:56:13 America/New_York] PHP Fatal error:  Call to undefined function k() in /home/codewrzv/royalengineeringworks.net/php/form-process.php on line 47
+[05-Dec-2017 08:56:32 America/New_York] PHP Parse error:  syntax error, unexpected 'phpinfo' (T_STRING), expecting ',' or ';' in /home/codewrzv/royalengineeringworks.net/php/form-process.php on line 48
+[05-Dec-2017 09:06:21 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/codewrzv/royalengineeringworks.net/php/form-process.php on line 10
+[05-Dec-2017 09:07:43 America/New_York] PHP Notice:  Undefined variable: service in /home/codewrzv/royalengineeringworks.net/php/form-process.php on line 21
+[05-Dec-2017 09:07:43 America/New_York] PHP Notice:  Undefined variable: email in /home/codewrzv/royalengineeringworks.net/php/form-process.php on line 22
+[05-Dec-2017 09:07:43 America/New_York] PHP Notice:  Undefined variable: service in /home/codewrzv/royalengineeringworks.net/php/form-process.php on line 22
+[05-Dec-2017 09:08:21 America/New_York] PHP Notice:  Undefined variable: email in /home/codewrzv/royalengineeringworks.net/php/form-process.php on line 23
